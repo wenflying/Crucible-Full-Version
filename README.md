@@ -285,4 +285,4 @@ This repository serves as the official landing page for Crucible. The software i
 **Get the most recent version of Crucible today!**
 
 ---
-**Last updated:** 2026-10-11 13:56:03 UTC
+**Last updated:** 2026-10-11 18:45:42 UTC
